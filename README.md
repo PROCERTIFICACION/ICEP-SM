@@ -133,7 +133,6 @@ body {
     <div class="nav">
         <a href="#" class="mantenimiento">Inicio</a>
         <a href="#" class="mantenimiento">Cursos</a>
-        <a href="#" class="https://procertificacion.github.io/CERTIFICADOS---VERIFICACION/">Verificación de Certificados</a>
         <a href="#" class="mantenimiento">Capacitación</a>
         <a href="#" class="mantenimiento">Contacto</a>
     </div>
@@ -152,7 +151,8 @@ body {
         </p>
 
       <button class="mantenimiento">Ver Cursos</button>
-<button class="mantenimiento">Explorar Programas</button>
+      <button class="mantenimiento">Explorar Programas</button>
+      <button class="https://procertificacion.github.io/CERTIFICADOS---VERIFICACION/">Verificar Certificado</button>
     </div>
 <script>
 document.querySelectorAll(".mantenimiento").forEach(function(elemento) {
