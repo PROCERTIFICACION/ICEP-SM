@@ -131,10 +131,10 @@ body {
 <div class="header">
     <h1>INSTITUTO SAN MARCOS</h1>
     <div class="nav">
-        <a href="#">Inicio</a>
-        <a href="#">Cursos</a>
-        <a href="#">Capacitación</a>
-        <a href="#">Contacto</a>
+        <a href="#" class="mantenimiento">Inicio</a>
+        <a href="#" class="mantenimiento">Cursos</a>
+        <a href="#" class="mantenimiento">Capacitación</a>
+        <a href="#" class="mantenimiento">Contacto</a>
     </div>
 </div>
 
@@ -150,10 +150,17 @@ body {
         para un mejor desempeño en el mercado laboral.
         </p>
 
-        <a href="#" class="btn">Ver Cursos</a>
-        <a href="#" class="btn btn-secondary">Explorar Programas</a>
+      <button class="mantenimiento">Ver Cursos</button>
+<button class="mantenimiento">Explorar Programas</button>
     </div>
-
+<script>
+document.querySelectorAll(".mantenimiento").forEach(function(elemento) {
+    elemento.addEventListener("click", function(e) {
+        e.preventDefault();
+        alert("⚠️ Este módulo se encuentra en mantenimiento. Intente más tarde.");
+    });
+});
+</script>
     <div class="hero-images">
         <img src="https://i.postimg.cc/KjZQPFx8/4.png">
         <img src="https://i.postimg.cc/c4crHnDC/Chat-GPT-Image-13-jun-2026-10-42-29-a-m.png">
