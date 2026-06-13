@@ -133,6 +133,7 @@ body {
     <div class="nav">
         <a href="#" class="mantenimiento">Inicio</a>
         <a href="#" class="mantenimiento">Cursos</a>
+        <a href="#" class="https://procertificacion.github.io/CERTIFICADOS---VERIFICACION/">Verificación de Certificados</a>
         <a href="#" class="mantenimiento">Capacitación</a>
         <a href="#" class="mantenimiento">Contacto</a>
     </div>
