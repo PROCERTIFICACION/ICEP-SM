@@ -156,7 +156,7 @@ body {
 
     <div class="hero-images">
         <img src="https://i.postimg.cc/KjZQPFx8/4.png">
-        <img src="https://images.unsplash.com/photo-1581091870627-3c4fbbfbfae1">
+        <img src="https://chatgpt.com/s/m_6a2d7a8a2abc81918f24ffd58852b07c">
         <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c">
         <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644">
     </div>
