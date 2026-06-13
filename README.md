@@ -1,6 +1,6 @@
 # ICEP-SM
 Sitio web oficial del Instituto de Capacitación y Especialización Profesional San Marcos.
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -155,7 +155,7 @@ body {
     </div>
 
     <div class="hero-images">
-        <img src="https://images.unsplash.com/photo-1581093588401-22d1a8c8d3c0">
+        <img src="https://google.com" alt="1D8emJPfRtl5Kgs5eGhqynO6siThOdFgn">
         <img src="https://images.unsplash.com/photo-1581091870627-3c4fbbfbfae1">
         <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c">
         <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644">
